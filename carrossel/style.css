@@ -11,6 +11,7 @@ body {
   justify-content: center;
   height: 100vh;
   margin: 0;
+  background: linear-gradient(to left bottom, #0f252f, #12313e, #133e4e, #144b5e, #13586f, #0f637b, #086f86, #007b91, #008799, #0093a0, #009fa6, #08abab);
 }
 
 img {
@@ -38,7 +39,7 @@ img {
 }
 
 .btn {
-  background-color: rebeccapurple;
+  background: linear-gradient(to right bottom, #0f252f, #12313e, #133e4e, #144b5e, #13586f, #0f637b, #086f86, #007b91, #008799, #0093a0, #009fa6, #08abab);
   color: #fff;
   border: none;
   padding: 0.5rem;
